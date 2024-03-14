@@ -3,8 +3,8 @@
 <img src="Screenshot 2024-03-12 at 17-25-24 Colored Boxes.png"/>
 
 ### Links
-- Solution URL: [Here]().
-- Live Site URL: [Here]().
+- Solution URL: [Here](https://github.com/RyanAbdaul/Colored-Boxes).
+- Live Site URL: [Here](https://ryanabdaul.github.io/Colored-Boxes/).
 
 ### Social Media
 - On Instagram - [@ryan.abdaul](https://www.instagram.com/ryan.abdaul/).
